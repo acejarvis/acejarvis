@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
