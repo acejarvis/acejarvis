@@ -2542,7 +2542,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.39 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.421 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2570,7 +2570,7 @@
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 7690 stars</div>
+                                <div class="text">Maintaining a repository with 7691 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2626,7 +2626,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="123.22360304382295 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="123.23126092656014 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2796,7 +2796,7 @@
                   Influencer
                   
                     <span class="gh">
-                      ranked 674k out of 74m users
+                      ranked 675k out of 74m users
                     </span>
                   
                 </div>
@@ -2976,7 +2976,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Thu, 29 Jul 2021 13:25:50 (timezone America/Toronto) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 29 Jul 2021 14:17:47 (timezone America/Toronto) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
